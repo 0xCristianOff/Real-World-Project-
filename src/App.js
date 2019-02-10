@@ -2,8 +2,9 @@ import React, { Component } from 'react';
 import QRCode from 'qrcode.react';
 import './App.css';
 import {InputGroup, FormControl, Row, Col, Button, ToggleButtonGroup, ButtonGroup, ToggleButton} from 'react-bootstrap';
+// example of object
 // const userLogin = {
-//   email: "ivigheni@uni.coventry.ac.uk",
+//   email: "studentName@uni.coventry.ac.uk",
 //   password: "password"
 // }
 // const qrcodeInput = JSON.stringify(userLogin);
